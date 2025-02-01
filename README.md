@@ -35,4 +35,4 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Checkout the deployment on Vercel
-https://budget-banking-pxugfc1xf-phamt007s-projects.vercel.app/
+moonlight-fgzlpjbez-phamt007s-projects.vercel.app
