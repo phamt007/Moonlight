@@ -35,4 +35,4 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Checkout the deployment on Vercel
-moonlight-fgzlpjbez-phamt007s-projects.vercel.app
+[moonlight-fgzlpjbez-phamt007s-projects.vercel.app](https://moonlight-one.vercel.app/sign-in)
